@@ -6,4 +6,8 @@ class Whale
   def eat
     put "gulp"
   end
+
+  def swim
+    puts "i'm swimming"
+  end
 end
