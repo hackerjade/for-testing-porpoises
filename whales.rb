@@ -8,6 +8,6 @@ class Whale
   end
 
   def swim
-    puts "i'm swimming"
+    puts "i'm swimming!!!"
   end
 end
